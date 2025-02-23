@@ -53,6 +53,9 @@ python "Firmy_tn_tt Dual_map.py" # For dual view
 
 3. Open the generated HTML file in a web browser to view the interactive map
 
+   ![image](https://github.com/user-attachments/assets/ace468f1-7441-43d2-94ef-d88e562fb44d)
+
+
 ## Map Features
 
 - **Markers**: Each company is represented by a marker
@@ -60,6 +63,8 @@ python "Firmy_tn_tt Dual_map.py" # For dual view
   - Company name
   - Revenue
   - Address
+    ![image](https://github.com/user-attachments/assets/624c5468-7717-4f77-adcb-7ceccd78cdd6)
+
 - **Clusters**: Companies in close proximity are grouped into clusters
 - **Revenue Display**: Cluster icons show the sum of revenues for contained companies
 - **Color Coding**: 
