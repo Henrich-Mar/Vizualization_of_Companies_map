@@ -3,8 +3,7 @@ import pandas as pd
 import time
 
 # Your Bing Maps API Key
-BING_MAPS_API_KEY = 'Ajn6q7gKQTRlOkVH9WjOpTQ90wzTXmSS3fTacodRhOPfSpyak64m_3K8auCALZc3'
-
+#BING_MAPS_API_KEY = 
 def geocode_bing(row):
     # Construct the full address from the three columns
     adresa = row.get('Adresa', '')
